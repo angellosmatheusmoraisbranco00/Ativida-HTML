@@ -51,5 +51,5 @@ d = 7;
 f = 8;
 g = 9;
 let media = (d + f + g)
-console.log("A media de", d, "e", f,  "e", g, "e", 8 + media);
+console.log("A media de", d, "e", f,  "e", g, "e",  + media);
 
